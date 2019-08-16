@@ -483,6 +483,9 @@
             },
             "us-west-2": {
                 "SPLUNKENTHVM": "ami-0c3e33232b6c07537"
+            },
+            "us-govcloud-west": {
+                "SPLUNKENTHVM": "ami-02f085f4514fa7145"
             }
         },
         "SplunkConfig": {
